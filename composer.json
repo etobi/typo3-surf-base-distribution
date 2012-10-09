@@ -1,6 +1,6 @@
 {
-    "name": "typo3/flow-base-distribution",
-    "description" : "TYPO3 Flow Base Distribution",
+    "name": "typo3/surf-base-distribution",
+    "description" : "TYPO3 Surf Base Distribution",
     "license": "LGPL-3.0+",
     "repositories": [
         {
@@ -14,7 +14,8 @@
     },
     "require": {
         "typo3/flow": "dev-master",
-        "typo3/welcome": "dev-master"
+        "typo3/welcome": "dev-master",
+        "typo3/surf": "dev-master"
     },
     "require-dev": {
         "typo3/kickstart": "dev-master",
